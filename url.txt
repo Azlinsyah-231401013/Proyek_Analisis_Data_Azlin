@@ -1,1 +1,3 @@
-https://bfad-puteranami.streamlit.app/
+Dashboard Streamlit Cloud : https://proyekdataazlin.streamlit.app/
+
+Repository GitHub : https://github.com/Azlinsyah-231401013/bike-sharing-dashboard-revisi/tree/main
