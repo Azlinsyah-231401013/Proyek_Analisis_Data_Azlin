@@ -1,3 +1,3 @@
 Dashboard Streamlit Cloud : https://proyekdataazlin.streamlit.app/
 
-Repository GitHub : https://github.com/Azlinsyah-231401013/bike-sharing-dashboard-revisi/tree/main
+Repository GitHub : https://github.com/Azlinsyah-231401013/Proyek_Analisis_Data_Azlin
